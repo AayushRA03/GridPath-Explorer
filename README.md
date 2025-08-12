@@ -1,8 +1,9 @@
 # 🌐 A\* Pathfinding Algorithm Visualizer
 
 This project is a visual demonstration of the **A\* (A-Star) pathfinding algorithm** built with **Pygame**. It lets users draw walls, set start and end points, and visually observe how A\* efficiently finds the shortest path in a grid.
+![test run](https://github.com/user-attachments/assets/5c5a01b5-58de-4913-90a4-940aa61990aa)
 
-![A\* Pathfinding Visualizer](https://upload.wikimedia.org/wikipedia/commons/5/5d/Astar_progress_animation.gif)
+
 
 > The A\* algorithm is widely used in games and navigation systems due to its optimal and complete nature.
 
@@ -109,4 +110,5 @@ python astar_pathfinding_visualizer.py
 * GUI controls for interactions (buttons, sliders)
 
 ---
+
 
