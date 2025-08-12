@@ -110,23 +110,3 @@ python astar_pathfinding_visualizer.py
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Author
-
-**Aayush Rathore**
-📧 [rathoreaayush0322@gmail.com](mailto:rathoreaayush0322@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/aayush-rathore-7534b8249)
-
----
-
-Let me know if you'd like:
-
-* `requirements.txt` file
-* GitHub badges
-* Deployment as an .exe (using PyInstaller)
-  Just ask!
